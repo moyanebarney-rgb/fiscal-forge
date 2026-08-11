@@ -119,7 +119,7 @@ Results are written to `outputs/reports/` and charts to `outputs/charts/`.
 ### Repository Structure
 
 ```text
-infrastructure-fiscal-analysis/
+fiscal-forge/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
